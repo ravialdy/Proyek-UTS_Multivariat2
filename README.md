@@ -44,9 +44,9 @@ Setelah mendapatkan nilai K terbaik, maka dapat dimulai penggunaan metode *Kmean
 
 Sedangkan untuk daftar PTN yang termasuk klaster ke-1 atau kelompok PTN dengan rata-rata skor UTBK sedang dapat dilihat pada gambar di bawah,
 
-![image](https://user-images.githubusercontent.com/68768305/118395579-59dcbf00-b675-11eb-8fc0-9e7ba5ac7963.png)
+![image](https://user-images.githubusercontent.com/68768305/118396062-e5574f80-b677-11eb-9345-569022fa45fc.png)
 
-![image](https://user-images.githubusercontent.com/68768305/118395594-6b25cb80-b675-11eb-9dd2-5d69cc550675.png)
+![image](https://user-images.githubusercontent.com/68768305/118396099-09b32c00-b678-11eb-8cb0-bc830e1879b4.png)
 
 Lalu, untuk daftar PTN yang termasuk klaster ke-2 atau kelompok PTN dengan rata-rata skor UTBK tinggi dapat dilihat pada gambar berikut, 
 
